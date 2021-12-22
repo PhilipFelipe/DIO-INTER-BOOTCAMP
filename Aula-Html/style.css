@@ -1,0 +1,80 @@
+body {
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width: 1920;
+    max-height: 1080;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.foto{
+    border: 1px solid #505050;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    object-fit:cover;
+    
+    
+}
+
+#principal, #secundario, #terciario {
+    color: #505050;
+
+}
+
+#principal {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+#terciario {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0%;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: honeydew;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.postContent{
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    text-align: justify;
+    
+}
+
+.postImage{
+    margin: 0%;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+    color: darkcyan;
+}
+
+footer {
+    background-color: black;
+}
