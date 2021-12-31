@@ -1,2 +1,2 @@
 # DIO-INTER-BOOTCAMP
-Arquivos referentes ao BOOTCAMP do Inter na plataforma DIO
+Arquivos referentes ao Bootcamp da INTER na plataforma Digital Innovation One!
