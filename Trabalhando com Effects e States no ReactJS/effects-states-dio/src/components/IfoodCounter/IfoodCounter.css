@@ -1,0 +1,47 @@
+.countex-wrapper {
+    display: flex;
+    flex-direction: row;
+    border: none;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+    width: 6%;
+    margin-left: 30px;
+
+}
+
+.counter-button-plus-active {
+    border: none;
+    background-color: transparent;
+    height: 100%;
+    font-size: larger;
+    color: red;
+    cursor: pointer;
+}
+
+.counter-button-minus-active {
+    border:none;
+    background-color: transparent;
+    height: 100%;
+    font-size: larger;
+    color: red;
+    cursor: pointer;
+}
+
+.counter-button-minus-desactive {
+    border:none;
+    background-color: transparent;
+    height: 100%;
+    font-size: larger;
+    color: rgb(105, 105, 105);
+    cursor: pointer;
+}
+
+.coin-button {
+    margin: 40px;
+    padding: 10px;
+    border: none;
+    color:black;
+    background-color: transparent;
+    font-size: 20px;
+}
